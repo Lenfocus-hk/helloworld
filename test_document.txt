@@ -1,7 +1,3 @@
 testasas 
 
-<<<<<<< HEAD
-Changes 5
-=======
-Changes 3
->>>>>>> parent of 3ba464e... test changes in branch2
+
