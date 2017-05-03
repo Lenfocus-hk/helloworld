@@ -1,7 +1,2 @@
 testasas 
-
-<<<<<<< HEAD
-Changes 6
-=======
-
->>>>>>> parent of cb99405... Merge branch 'master' of github.com:Lenfocus-hk/helloworld
+tes 
